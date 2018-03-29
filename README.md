@@ -21,7 +21,9 @@ It provides a non recursive approach to draw tidy trees in linear space and time
 The above algorithm does not create minimum width tree but provides an optimal tree following important aesthetics.
 
 **OUTPUT:**
+
 An optimal tree can be generated for any pattern provided in the input
 
 
+For more details Check out wiki page here : https://github.com/Uddhav-Mishra/Tree_Formation/wiki
 
